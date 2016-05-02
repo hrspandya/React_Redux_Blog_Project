@@ -1,2 +1,7 @@
-# React_Redux_Blog_Project
-Building Simple Blog using React + Redux 
+Building Blog App with React and Redux
+
+
+```
+	> npm install
+	> npm start
+```
